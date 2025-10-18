@@ -1,9 +1,10 @@
 # Simple Vue Tailwind MultiSelect
 
-一个基于 Vue 3 + TypeScript + Tailwind CSS 的现代化多选下拉组件。
+一个简易的基于 Vue 3 + TypeScript + Tailwind CSS 的多选下拉组件。
 
 ## ☀️ 使用
 
+主要是写来自用的，所以没发布npm包，
 自己复制代码到项目中使用，自己按需修改即可
 
 ## ✨ 特性
